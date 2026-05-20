@@ -1,4 +1,4 @@
-name: Genshin Banner Scraper and Predictor
+name: Genshin Banner Scraper and Predictor # Nombre del workflow
 
 on:
   push:

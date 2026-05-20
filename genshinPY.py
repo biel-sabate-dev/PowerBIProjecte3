@@ -5,6 +5,7 @@ from collections import defaultdict
 import json
 import re
 
+# Biel
 def fetch_and_analyze():
     url = "https://genshin-builds.com/es/banners/characters"
     headers = {
