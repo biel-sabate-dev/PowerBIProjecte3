@@ -1,0 +1,966 @@
+[
+    {
+        "date": "2026-04-28",
+        "characters": [
+            "Lauma",
+            "NÃ©fer",
+            "Xingchiu",
+            "Kirara",
+            "Jahoda"
+        ]
+    },
+    {
+        "date": "2026-04-08",
+        "characters": [
+            "LinnÃ©a",
+            "Chasca",
+            "Illuga",
+            "Aino",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2026-03-17",
+        "characters": [
+            "Skirk",
+            "Escoffier",
+            "Dahlia",
+            "Candace",
+            "Charlotte"
+        ]
+    },
+    {
+        "date": "2026-02-25",
+        "characters": [
+            "Varka",
+            "Flins",
+            "Bennett",
+            "Xiangling",
+            "Sacarosa"
+        ]
+    },
+    {
+        "date": "2026-02-03",
+        "characters": [
+            "Zibai",
+            "Neuvillette",
+            "Illuga",
+            "Aino",
+            "Gorou"
+        ]
+    },
+    {
+        "date": "2026-01-14",
+        "characters": [
+            "Colombina",
+            "Ineffa",
+            "Fischl",
+            "Sethos",
+            "IfÃ¡"
+        ]
+    },
+    {
+        "date": "2025-12-23",
+        "characters": [
+            "Varesa",
+            "Xilonen",
+            "IansÃ¡n",
+            "Chevreuse",
+            "Gaming"
+        ]
+    },
+    {
+        "date": "2025-12-03",
+        "characters": [
+            "Durin",
+            "Venti",
+            "Bennett",
+            "FaruzÃ¡n",
+            "Jahoda"
+        ]
+    },
+    {
+        "date": "2025-11-11",
+        "characters": [
+            "Arlecchino",
+            "Zhongli",
+            "Lan Yan",
+            "Rosaria",
+            "Yun Jin"
+        ]
+    },
+    {
+        "date": "2025-10-22",
+        "characters": [
+            "NÃ©fer",
+            "Furina",
+            "Xingchiu",
+            "Collei",
+            "Yaoyao"
+        ]
+    },
+    {
+        "date": "2025-09-30",
+        "characters": [
+            "Flins",
+            "Yelan",
+            "Aino",
+            "Sacarosa",
+            "Dori"
+        ]
+    },
+    {
+        "date": "2025-09-10",
+        "characters": [
+            "Lauma",
+            "Nahida",
+            "BÃ¡rbara",
+            "Kuki Shinobu",
+            "Kaveh"
+        ]
+    },
+    {
+        "date": "2025-08-19",
+        "characters": [
+            "Mualani",
+            "Chasca",
+            "IfÃ¡",
+            "Ororon",
+            "Bennett"
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "characters": [
+            "Ineffa",
+            "CitlalÃ­",
+            "Sethos",
+            "Xingchiu",
+            "Fischl"
+        ]
+    },
+    {
+        "date": "2025-07-08",
+        "characters": [
+            "Mavuika",
+            "Ãmilie",
+            "IansÃ¡n",
+            "Yaoyao",
+            "Xiangling"
+        ]
+    },
+    {
+        "date": "2025-06-18",
+        "characters": [
+            "Skirk",
+            "Shenhe",
+            "Dahlia",
+            "Candace",
+            "Diona"
+        ]
+    },
+    {
+        "date": "2025-05-27",
+        "characters": [
+            "Kinich",
+            "Shogun Raiden",
+            "Thoma",
+            "Kujou Sara",
+            "Lynette"
+        ]
+    },
+    {
+        "date": "2025-05-07",
+        "characters": [
+            "Escoffier",
+            "Navia",
+            "IfÃ¡",
+            "Ororon",
+            "Laila"
+        ]
+    },
+    {
+        "date": "2025-04-15",
+        "characters": [
+            "Xilonen",
+            "Venti",
+            "FaruzÃ¡n",
+            "Beidou",
+            "Yanfei"
+        ]
+    },
+    {
+        "date": "2025-03-26",
+        "characters": [
+            "Varesa",
+            "Xianyun",
+            "IansÃ¡n",
+            "Chevreuse",
+            "Gaming"
+        ]
+    },
+    {
+        "date": "2025-03-04",
+        "characters": [
+            "Wriothesley",
+            "Furina",
+            "Charlotte",
+            "Chongyun",
+            "Mika"
+        ]
+    },
+    {
+        "date": "2025-02-12",
+        "characters": [
+            "Yumemizuki Mizuki",
+            "Sigewinne",
+            "Gorou",
+            "Sayu",
+            "Xiangling"
+        ]
+    },
+    {
+        "date": "2025-01-21",
+        "characters": [
+            "Arlecchino",
+            "Clorinde",
+            "Lan Yan",
+            "Chevreuse",
+            "Rosaria"
+        ]
+    },
+    {
+        "date": "2025-01-01",
+        "characters": [
+            "Mavuika",
+            "CitlalÃ­",
+            "Kachina",
+            "Bennett",
+            "Diona"
+        ]
+    },
+    {
+        "date": "2024-12-10",
+        "characters": [
+            "Neuvillette",
+            "Zhongli",
+            "Shikanoin Heizou",
+            "Fischl",
+            "Yaoyao"
+        ]
+    },
+    {
+        "date": "2024-11-20",
+        "characters": [
+            "Chasca",
+            "Lyney",
+            "Ororon",
+            "Sacarosa",
+            "BÃ¡rbara"
+        ]
+    },
+    {
+        "date": "2024-10-29",
+        "characters": [
+            "Nahida",
+            "Hu Tao",
+            "Sethos",
+            "Xingchiu",
+            "Kuki Shinobu"
+        ]
+    },
+    {
+        "date": "2024-10-09",
+        "characters": [
+            "Xilonen",
+            "Chiori",
+            "Dori",
+            "Candace",
+            "Collei"
+        ]
+    },
+    {
+        "date": "2024-09-17",
+        "characters": [
+            "Kinich",
+            "Shogun Raiden",
+            "Thoma",
+            "Kujou Sara",
+            "Chevreuse"
+        ]
+    },
+    {
+        "date": "2024-08-28",
+        "characters": [
+            "Mualani",
+            "Kaedehara Kazuha",
+            "Kachina",
+            "Xinyan",
+            "Bennett"
+        ]
+    },
+    {
+        "date": "2024-08-06",
+        "characters": [
+            "Ãmilie",
+            "Yelan",
+            "Yanfei",
+            "Xiangling",
+            "Razor"
+        ]
+    },
+    {
+        "date": "2024-07-17",
+        "characters": [
+            "Navia",
+            "Nilou",
+            "Kirara",
+            "Kaveh",
+            "Ninguang"
+        ]
+    },
+    {
+        "date": "2024-06-25",
+        "characters": [
+            "Sigewinne",
+            "Furina",
+            "Noelle",
+            "Gaming",
+            "Rosaria"
+        ]
+    },
+    {
+        "date": "2024-06-05",
+        "characters": [
+            "Clorinde",
+            "AlhacÃ©n",
+            "Sethos",
+            "Bennett",
+            "Thoma"
+        ]
+    },
+    {
+        "date": "2024-05-14",
+        "characters": [
+            "Trotamundos",
+            "Baizhu",
+            "Laila",
+            "FaruzÃ¡n",
+            "Beidou"
+        ]
+    },
+    {
+        "date": "2024-04-24",
+        "characters": [
+            "Arlecchino",
+            "Lyney",
+            "FrÃ©minet",
+            "Lynette",
+            "Xiangling"
+        ]
+    },
+    {
+        "date": "2024-04-02",
+        "characters": [
+            "Neuvillette",
+            "Kaedehara Kazuha",
+            "BÃ¡rbara",
+            "Xingchiu",
+            "Yanfei"
+        ]
+    },
+    {
+        "date": "2024-03-13",
+        "characters": [
+            "Chiori",
+            "Arataki Itto",
+            "Yun Jin",
+            "Gorou",
+            "Dori"
+        ]
+    },
+    {
+        "date": "2024-02-20",
+        "characters": [
+            "Xiao",
+            "Yae Miko",
+            "Yaoyao",
+            "Xinyan",
+            "Ninguang"
+        ]
+    },
+    {
+        "date": "2024-01-31",
+        "characters": [
+            "Xianyun",
+            "Nahida",
+            "Gaming",
+            "FaruzÃ¡n",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2024-01-09",
+        "characters": [
+            "Shogun Raiden",
+            "Yoimiya",
+            "Bennett",
+            "Kujou Sara",
+            "Chevreuse"
+        ]
+    },
+    {
+        "date": "2023-12-20",
+        "characters": [
+            "Navia",
+            "Kamisato Ayaka",
+            "Sacarosa",
+            "Candace",
+            "Rosaria"
+        ]
+    },
+    {
+        "date": "2023-11-28",
+        "characters": [
+            "Cyno",
+            "Kamisato Ayato",
+            "Kuki Shinobu",
+            "Xiangling",
+            "Kirara"
+        ]
+    },
+    {
+        "date": "2023-11-08",
+        "characters": [
+            "Furina",
+            "Baizhu",
+            "Charlotte",
+            "Collei",
+            "Beidou"
+        ]
+    },
+    {
+        "date": "2023-10-17",
+        "characters": [
+            "Wriothesley",
+            "Venti",
+            "Chongyun",
+            "Thoma",
+            "Dori"
+        ]
+    },
+    {
+        "date": "2023-09-27",
+        "characters": [
+            "Neuvillette",
+            "Hu Tao",
+            "Fischl",
+            "Xingchiu",
+            "Diona"
+        ]
+    },
+    {
+        "date": "2023-09-05",
+        "characters": [
+            "Tartaglia",
+            "Zhongli",
+            "FrÃ©minet",
+            "Sayu",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2023-08-16",
+        "characters": [
+            "Lyney",
+            "Yelan",
+            "Bennett",
+            "BÃ¡rbara",
+            "Lynette"
+        ]
+    },
+    {
+        "date": "2023-07-25",
+        "characters": [
+            "Sangonomiya Kokomi",
+            "Trotamundos",
+            "Yanfei",
+            "FaruzÃ¡n",
+            "Rosaria"
+        ]
+    },
+    {
+        "date": "2023-07-05",
+        "characters": [
+            "Eula",
+            "Klee",
+            "Mika",
+            "Razor",
+            "Thoma"
+        ]
+    },
+    {
+        "date": "2023-06-13",
+        "characters": [
+            "AlhacÃ©n",
+            "Kaedehara Kazuha",
+            "Yaoyao",
+            "Shikanoin Heizou",
+            "Xiangling"
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "characters": [
+            "Yoimiya",
+            "Yae Miko",
+            "Kirara",
+            "Yun Jin",
+            "Chongyun"
+        ]
+    },
+    {
+        "date": "2023-05-02",
+        "characters": [
+            "Baizhu",
+            "Ganyu",
+            "Kaveh",
+            "Candace",
+            "Fischl"
+        ]
+    },
+    {
+        "date": "2023-04-12",
+        "characters": [
+            "Nahida",
+            "Nilou",
+            "Kuki Shinobu",
+            "Dori",
+            "Laila"
+        ]
+    },
+    {
+        "date": "2023-03-21",
+        "characters": [
+            "Shenhe",
+            "Kamisato Ayaka",
+            "Diona",
+            "Sacarosa",
+            "Mika"
+        ]
+    },
+    {
+        "date": "2023-03-01",
+        "characters": [
+            "Dehya",
+            "Cyno",
+            "Bennett",
+            "Collei",
+            "BÃ¡rbara"
+        ]
+    },
+    {
+        "date": "2023-02-07",
+        "characters": [
+            "Hu Tao",
+            "Yelan",
+            "Beidou",
+            "Ninguang",
+            "Xingchiu"
+        ]
+    },
+    {
+        "date": "2023-01-18",
+        "characters": [
+            "AlhacÃ©n",
+            "Xiao",
+            "Xinyan",
+            "Yun Jin",
+            "Yaoyao"
+        ]
+    },
+    {
+        "date": "2022-12-27",
+        "characters": [
+            "Shogun Raiden",
+            "Kamisato Ayato",
+            "Sayu",
+            "Rosaria",
+            "Kujou Sara"
+        ]
+    },
+    {
+        "date": "2022-12-07",
+        "characters": [
+            "Trotamundos",
+            "Arataki Itto",
+            "FaruzÃ¡n",
+            "Yanfei",
+            "Gorou"
+        ]
+    },
+    {
+        "date": "2022-11-18",
+        "characters": [
+            "Yae Miko",
+            "Tartaglia",
+            "Thoma",
+            "Shikanoin Heizou",
+            "Laila"
+        ]
+    },
+    {
+        "date": "2022-11-02",
+        "characters": [
+            "Nahida",
+            "Yoimiya",
+            "Bennett",
+            "Razor",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2022-10-14",
+        "characters": [
+            "Nilou",
+            "Albedo",
+            "BÃ¡rbara",
+            "Xiangling",
+            "Beidou"
+        ]
+    },
+    {
+        "date": "2022-09-28",
+        "characters": [
+            "Cyno",
+            "Venti",
+            "Sayu",
+            "Candace",
+            "Kuki Shinobu"
+        ]
+    },
+    {
+        "date": "2022-09-09",
+        "characters": [
+            "Ganyu",
+            "Sangonomiya Kokomi",
+            "Xingchiu",
+            "Sacarosa",
+            "Dori"
+        ]
+    },
+    {
+        "date": "2022-08-24",
+        "characters": [
+            "Tignari",
+            "Zhongli",
+            "Collei",
+            "Fischl",
+            "Diona"
+        ]
+    },
+    {
+        "date": "2022-08-02",
+        "characters": [
+            "Yoimiya",
+            "Yun Jin",
+            "Xinyan",
+            "Bennett"
+        ]
+    },
+    {
+        "date": "2022-07-13",
+        "characters": [
+            "Kaedehara Kazuha",
+            "Klee",
+            "Ninguang",
+            "Thoma",
+            "Shikanoin Heizou"
+        ]
+    },
+    {
+        "date": "2022-06-21",
+        "characters": [
+            "Arataki Itto",
+            "Chongyun",
+            "Gorou",
+            "Kuki Shinobu"
+        ]
+    },
+    {
+        "date": "2022-05-31",
+        "characters": [
+            "Yelan",
+            "Xiao",
+            "BÃ¡rbara",
+            "Noelle",
+            "Yanfei"
+        ]
+    },
+    {
+        "date": "2022-04-19",
+        "characters": [
+            "Kamisato Ayaka",
+            "Sayu",
+            "Razor",
+            "Rosaria"
+        ]
+    },
+    {
+        "date": "2022-03-30",
+        "characters": [
+            "Kamisato Ayato",
+            "Venti",
+            "Yun Jin",
+            "Xiangling",
+            "Sacarosa"
+        ]
+    },
+    {
+        "date": "2022-03-08",
+        "characters": [
+            "Shogun Raiden",
+            "Sangonomiya Kokomi",
+            "Bennett",
+            "Xinyan",
+            "Kujou Sara"
+        ]
+    },
+    {
+        "date": "2022-02-16",
+        "characters": [
+            "Yae Miko",
+            "Thoma",
+            "Diona",
+            "Fischl"
+        ]
+    },
+    {
+        "date": "2022-01-25",
+        "characters": [
+            "Zhongli",
+            "Ganyu",
+            "Xingchiu",
+            "Beidou",
+            "Yanfei"
+        ]
+    },
+    {
+        "date": "2022-01-05",
+        "characters": [
+            "Shenhe",
+            "Xiao",
+            "Yun Jin",
+            "Ninguang",
+            "Chongyun"
+        ]
+    },
+    {
+        "date": "2021-12-14",
+        "characters": [
+            "Arataki Itto",
+            "Gorou",
+            "Xiangling",
+            "BÃ¡rbara"
+        ]
+    },
+    {
+        "date": "2021-11-24",
+        "characters": [
+            "Albedo",
+            "Eula",
+            "Rosaria",
+            "Noelle",
+            "Bennett"
+        ]
+    },
+    {
+        "date": "2021-11-02",
+        "characters": [
+            "Hu Tao",
+            "Thoma",
+            "Diona",
+            "Sayu"
+        ]
+    },
+    {
+        "date": "2021-10-13",
+        "characters": [
+            "Tartaglia",
+            "Ninguang",
+            "Chongyun",
+            "Yanfei"
+        ]
+    },
+    {
+        "date": "2021-09-21",
+        "characters": [
+            "Sangonomiya Kokomi",
+            "Rosaria",
+            "Beidou",
+            "Xingchiu"
+        ]
+    },
+    {
+        "date": "2021-09-01",
+        "characters": [
+            "Shogun Raiden",
+            "Xiangling",
+            "Sacarosa",
+            "Kujou Sara"
+        ]
+    },
+    {
+        "date": "2021-08-10",
+        "characters": [
+            "Yoimiya",
+            "Sayu",
+            "Diona",
+            "Xinyan"
+        ]
+    },
+    {
+        "date": "2021-07-21",
+        "characters": [
+            "Kamisato Ayaka",
+            "Chongyun",
+            "Ninguang",
+            "Yanfei"
+        ]
+    },
+    {
+        "date": "2021-06-29",
+        "characters": [
+            "Kaedehara Kazuha",
+            "Bennett",
+            "Razor",
+            "Rosaria"
+        ]
+    },
+    {
+        "date": "2021-06-09",
+        "characters": [
+            "Klee",
+            "Fischl",
+            "Sacarosa",
+            "BÃ¡rbara"
+        ]
+    },
+    {
+        "date": "2021-05-18",
+        "characters": [
+            "Eula",
+            "Xingchiu",
+            "Beidou",
+            "Xinyan"
+        ]
+    },
+    {
+        "date": "2021-04-28",
+        "characters": [
+            "Zhongli",
+            "Yanfei",
+            "Noelle",
+            "Diona"
+        ]
+    },
+    {
+        "date": "2021-04-06",
+        "characters": [
+            "Tartaglia",
+            "Rosaria",
+            "Fischl",
+            "BÃ¡rbara"
+        ]
+    },
+    {
+        "date": "2021-03-17",
+        "characters": [
+            "Venti",
+            "Sacarosa",
+            "Razor",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2021-03-02",
+        "characters": [
+            "Hu Tao",
+            "Xingchiu",
+            "Xiangling",
+            "Chongyun"
+        ]
+    },
+    {
+        "date": "2021-02-17",
+        "characters": [
+            "Keching",
+            "BÃ¡rbara",
+            "Bennett",
+            "Ninguang"
+        ]
+    },
+    {
+        "date": "2021-02-03",
+        "characters": [
+            "Xiao",
+            "Diona",
+            "Xinyan",
+            "Beidou"
+        ]
+    },
+    {
+        "date": "2021-01-12",
+        "characters": [
+            "Ganyu",
+            "Xingchiu",
+            "Xiangling",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2020-12-23",
+        "characters": [
+            "Albedo",
+            "Fischl",
+            "Bennett",
+            "Sacarosa"
+        ]
+    },
+    {
+        "date": "2020-12-01",
+        "characters": [
+            "Zhongli",
+            "Xinyan",
+            "Razor",
+            "Chongyun"
+        ]
+    },
+    {
+        "date": "2020-11-11",
+        "characters": [
+            "Tartaglia",
+            "Ninguang",
+            "Beidou",
+            "Diona"
+        ]
+    },
+    {
+        "date": "2020-10-20",
+        "characters": [
+            "Klee",
+            "Xingchiu",
+            "Sacarosa",
+            "Noelle"
+        ]
+    },
+    {
+        "date": "2020-09-28",
+        "characters": [
+            "Venti",
+            "BÃ¡rbara",
+            "Fischl",
+            "Xiangling"
+        ]
+    }
+]
